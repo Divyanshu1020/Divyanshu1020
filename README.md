@@ -1,5 +1,7 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Divyanshu Vishwakarma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/6046919f8276b876330735e2/60519a8ad2a3d67e48d03816_cli.gif">
 
 - 🌱 I’m currently learning **Java, JavaScript, Web development, DBMS, AWS**
 

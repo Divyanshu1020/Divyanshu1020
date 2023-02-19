@@ -1,4 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/97666287/207317620-df845f6a-393d-421e-b470-5621bb5710da.png)
+<div align='center'>
+  <img width="600px" src="https://user-images.githubusercontent.com/97666287/207317620-df845f6a-393d-421e-b470-5621bb5710da.png" />
+</div>
 <h1 align="center">Hi 👋, I'm Divyanshu Vishwakarma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/6046919f8276b876330735e2/60519a8ad2a3d67e48d03816_cli.gif">
